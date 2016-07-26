@@ -1,0 +1,28 @@
+{
+  "name": "zelgadis87-throttler",
+  "version": "1.0.0",
+  "description": "A simple task throttler, letting through only X functions every Y seconds. Based on Bluebird promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zelgadis87",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "lodash.isfinite": "^3.3.2",
+    "lodash.isfunction": "^3.0.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zelgadis87/zelgadis87-throttler.git"
+  },
+  "keywords": [
+    "throttler"
+  ],
+  "bugs": {
+    "url": "https://github.com/Zelgadis87/zelgadis87-throttler/issues"
+  },
+  "homepage": "https://github.com/Zelgadis87/zelgadis87-throttler#readme"
+}
