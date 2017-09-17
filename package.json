@@ -1,6 +1,6 @@
 {
-  "name": "zelgadis87-throttler",
-  "version": "1.0.0",
+  "name": "@zelgadis87/throttler",
+  "version": "1.0.1",
   "description": "A simple task throttler, letting through only X functions every Y seconds. Based on Bluebird promises.",
   "main": "index.js",
   "scripts": {
